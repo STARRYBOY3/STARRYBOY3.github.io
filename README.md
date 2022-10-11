@@ -1,2 +1,2 @@
 # STARRYBOY3connects.github.io
-go to https://starryboy3.github.io/STARRYBOY3connects.github.io/ to see.
+go to https://starryboy3.github.io to see.
